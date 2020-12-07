@@ -1,0 +1,25 @@
+site_name: IBM Maximo Asset Performance Management (APM) Labs
+site_url: https://mam-hol.eu-gb.mybluemix.net/
+site_author: Christophe Lucas
+site_description: "IBM Maximo APM Hands on Lab"
+nav:
+    - APM Labs:
+        - APM OVERVIEW: index.md
+        - MONITOR: monitor/monitor.md
+        - HEALTH: health/health.md
+        - PREDICT: predict/predict.md
+    
+theme: readthedocs
+
+# theme:
+  # name: material
+
+
+# theme:
+    # name: bootstrap
+
+# theme: windmill
+  
+# theme:
+  # name: null
+  # custom_dir: 'cinder
